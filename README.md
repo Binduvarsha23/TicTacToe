@@ -1,4 +1,4 @@
-![ticTacToe](https://github.com/Binduvarsha23/ticTacToe/assets/123391226/103f8b0e-d39f-4bcc-b543-3e04d5b676f7)
+![ticTacToe](https://github.com/Binduvarsha23/TicTacToe/blob/main/TicTocToe.png)
 # Tic-Tac-Toe Game
 
 This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game allows two players to play in turns and announces the winner when one player gets three marks in a row.
@@ -26,13 +26,9 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Binduvarsha23/ticTacToe.git
+    git clone https://github.com/Binduvarsha23/TicTacToe.git
     ```
-2. Open the project folder:
-    ```bash
-    cd tic-tac-toe
-    ```
-3. Open the `index.html` file in a web browser.
+2. Open the `index.html` file in a web browser.
 
 ## Usage
 
